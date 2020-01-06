@@ -14,7 +14,8 @@ title: "Introduction to Using the Shell in a High-Performance Computing Context"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
-life_cycle: "alpha"
+#life_cycle: "alpha"
+life_cycle: "stable"  # to suppress alpha notification banner
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -29,7 +30,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "rse@sheffield.ac.uk"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -62,7 +63,7 @@ instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post
 
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
-start_time: 0
+start_time: 540
 
 # Specify that things in the episodes collection should be output.
 collections:
@@ -108,18 +109,10 @@ highlighter: rouge
 # * workshop_host_prompt - The bash prompt on the remote host
 # * workshop_host_homedir - The location of the home directory on the remote host
 #
-# Example: Graham cluster at Compute Canada, University of Waterloo
-workshop_host: "Graham"
-workshop_host_id: "ComputeCanada_Graham"
-workshop_host_login: "graham.computecanada.ca"
-workshop_host_location: "University of Waterloo"
-workshop_host_prompt: "[yourUsername@gra-login1 ~]$ "
+workshop_host: "TrainingHPC"
+workshop_host_id: "TUOS_TrainingHPC"
+workshop_host_login: "traininghpc.sheffield.ac.uk"
+workshop_host_location: "University of Sheffield"
+workshop_host_prompt: "[yourUsername@training-login1 ~]$ "
 workshop_host_homedir: "/home"
-workshop_sched_id: "ComputeCanada_Graham_slurm"
-# Example: Cirrus at EPCC, The University of Edinburgh
-# workshop_host: "Cirrus"
-# workshop_host_id: "EPCC_Cirrus"
-# workshop_host_login: "login.cirrus.ac.uk"
-# workshop_host_location: "EPCC, The University of Edinburgh"
-# workshop_host_prompt: "[yourUsername@cirrus-login0 ~]$ "
-# workshop_host_homedir: "/lustre/home/tc001"
+workshop_sched_id: "TUOS_TrainingHPC_slurm"

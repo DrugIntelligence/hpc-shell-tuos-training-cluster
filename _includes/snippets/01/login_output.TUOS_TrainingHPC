@@ -1,0 +1,11 @@
+
+The authenticity of host 'traininghpc (172.16.249.98)' can't be established.
+ECDSA key fingerprint is SHA256:1fpmAXgmHqWWz60LEdjNj8oA3MtrCKYx0US7WX8dQ48.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'traininghpc,172.16.249.98' (ECDSA) to the list of known hosts.
+Last login: Fri Dec 20 10:29:06 2019 from dyn100118.shef.ac.uk
+*****************************************************************************
+*                       The University Of Sheffield.                        *
+*               Unauthorised use of this system is prohibited.              *
+*                              CentOS 7.7.1908                              * 
+*****************************************************************************
