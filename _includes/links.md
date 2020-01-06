@@ -1,6 +1,6 @@
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
-[ci]: http://communityin.org/
+[ci]: https://communityin.org/
 [coc-reporting]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [concept-maps]: https://carpentries.github.io/instructor-training/05-memory/
@@ -9,7 +9,7 @@
 [cran-checkpoint]: https://cran.r-project.org/package=checkpoint
 [cran-knitr]: https://cran.r-project.org/package=knitr
 [cran-stringr]: https://cran.r-project.org/package=stringr
-[dc-lessons]: http://www.datacarpentry.org/lessons/
+[dc-lessons]: https://www.datacarpentry.org/lessons/
 [email]: mailto:team@carpentries.org
 [github-importer]: https://import.github.com/
 [importer]: https://github.com/new/import
@@ -37,4 +37,4 @@
 [swc-lessons]: https://software-carpentry.org/lessons/ 
 [swc-releases]: https://github.com/swcarpentry/swc-releases
 [workshop-repo]: {{ site.workshop_repo }}
-[yaml]: http://yaml.org/
+[yaml]: https://yaml.org/
